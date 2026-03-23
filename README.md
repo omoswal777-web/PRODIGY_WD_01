@@ -33,7 +33,7 @@ The navigation menu should have a fixed position and be visible on all pages.
 ## 📷 Screenshots
 
 > <img width="1887" height="907" alt="Screenshot 2026-03-23 154240" src="https://github.com/user-attachments/assets/b4c7165d-4125-4475-b5f5-39efb7b2d390" />
-  <img width="1887" height="907" alt="Screenshot 2026-03-23 154240" src="https://github.com/user-attachments/assets/e96e5a13-de92-4f8a-8f05-5b713422bb72" />
+<img width="1882" height="858" alt="Screenshot 2026-03-23 154314" src="https://github.com/user-attachments/assets/3e11df64-8d73-4073-9602-3f5d79dc4700" />
 
 
 ---
